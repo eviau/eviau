@@ -1,1 +1,1 @@
-### Bonjour ! :waves:
+### Bonjour ! 
