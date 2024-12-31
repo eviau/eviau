@@ -4,5 +4,4 @@ de façon très prétentieuse, je m'intéresse à la définition de medium artis
 
 principal projet: [finartcialist](https://www.finartcialist.com) --- aussi disponible sur [bandcamp](https://finartcialist.bandcamp.com) --- quelques projets sur [github](https://www.github.com/finartcialist).
 
-autres projets disponibles sur [eviau.net](https://www.eviau.net) et pour tout la documentation technique: [gitlab](https://www.gitlab.com/eviau-sat).
-
+autres projets disponibles sur [eviau.net](https://www.eviau.net)
